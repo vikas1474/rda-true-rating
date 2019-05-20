@@ -1,0 +1,33 @@
+.red{
+    background:#FF5C5C;
+}
+.amber{
+    background:#F5B31F;
+}
+
+.green{
+    background:#62DDA9;
+}
+
+
+
+
+.box{
+    width:100%;
+    height:20px;
+    position: relative;
+    border-radius: 5px;
+    border:3px;
+    background:#dedede;
+}
+
+
+.box span{
+    position: absolute;
+}
+
+.box p{
+    position: absolute;
+    display:block;
+    top:20px;
+}
